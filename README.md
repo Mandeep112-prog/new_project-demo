@@ -1,4 +1,4 @@
 # new_project-demo
 This is my first Git Repository.
 <br>
-Author-Mandeep Kumar
+Author-Mandeep Yadav
